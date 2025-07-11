@@ -1,0 +1,16 @@
+Mitigation Notes:
+
+1. Router:
+   - Change the default administrator password to a strong, unique password.
+   - Disable remote management unless necessary.
+   - Update router firmware regularly.
+
+2. Laptop:
+   - Enable automatic system and security updates.
+   - Install and maintain reputable antivirus software.
+   - Use a standard user account for daily activities instead of an admin account.
+
+3. Smart TV:
+   - Disable unused or unnecessary services and ports.
+   - Regularly check for and install firmware updates.
+   - Isolate smart devices on a separate guest network if possible.
